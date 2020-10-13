@@ -3,16 +3,17 @@ title: "Lubridate_Oct8_v1"
 author: "Archana Ramamoorthy"
 date: "10/8/2020"
 output:
-    html_document:
-      theme: readable
-      highlight: tango
-      toc: true
-      toc_float: true
-      toc_collapsed: true
-      toc_depth: 3
-      self_contained: false
-      number_sections: false
-      css: textbook.css
+  html_document:
+    df_print: paged
+    theme: readable
+    highlight: tango
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+    toc_depth: 3
+    self_contained: false
+    number_sections: false
+    css: textbook.css
     
 ---
 
